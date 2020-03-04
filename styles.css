@@ -1,0 +1,19 @@
+h1{
+    font-size: 75px;
+    text-decoration-line: underline;
+    text-align: center;
+}
+
+p{
+    font-size: 50px;
+    text-align: center;
+}
+.underline p{
+text-decoration: underline;
+font-weight: 150;
+}
+li{
+    font-size: 50px;
+    text-align: left;
+    text-decoration: none;
+}
