@@ -9,7 +9,7 @@ Each person will take turns to complete the tasks. We have a Cafe and we will be
 5) Declare two variables using var syntax. One of them will be latte and give it a numeric value of 2. The second one will be mocha and its numeric value will be 3.
 6) Concatenate the latte and mocha variables in a console.log to show a numeric value of 5.
 
-7) Do a boolean in another cosole.log using latte > mocha and see what happens.
+7) Do a boolean in another console.log using latte > mocha and see what happens.
 8) Change the latte > mocha from number 7 to change to the opposite result in the console log.
 
 9) Using the let syntax, create an undefined variable (one that is assigned no value) naming it sugarFree.
